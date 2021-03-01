@@ -1,0 +1,29 @@
+new best net in 4
+TRAINING result
+accuracy   = 88.647 [%]
+hit_count  = 8231654
+miss_count = 1054234
+
+class_accuracy = 97.27%   54.45%   
+
+
+confusion_matrix = 
+7213480	 851756	 
+202478	 1018174	 
+
+
+
+TESTING result
+accuracy   = 82.368 [%]
+hit_count  = 92990
+miss_count = 19906
+
+class_accuracy = 91.79%   44.989%   
+
+
+confusion_matrix = 
+82763	 12504	 
+7402	 10227	 
+
+
+

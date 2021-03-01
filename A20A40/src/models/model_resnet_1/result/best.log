@@ -1,0 +1,29 @@
+new best net in 41
+TRAINING result
+accuracy   = 99.999 [%]
+hit_count  = 9285773
+miss_count = 115
+
+class_accuracy = 99.999%   99.996%   
+
+
+confusion_matrix = 
+7416398	 68	 
+47	 1869375	 
+
+
+
+TESTING result
+accuracy   = 66.399 [%]
+hit_count  = 19378
+miss_count = 9806
+
+class_accuracy = 98.071%   15.119%   
+
+
+confusion_matrix = 
+17693	 9459	 
+347	 1685	 
+
+
+

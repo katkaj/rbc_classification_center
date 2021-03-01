@@ -1,0 +1,29 @@
+new best net in 2
+TRAINING result
+accuracy   = 88.647 [%]
+hit_count  = 8231625
+miss_count = 1054263
+
+class_accuracy = 97.904%   51.896%   
+
+
+confusion_matrix = 
+7261926	 898831	 
+155432	 969699	 
+
+
+
+TESTING result
+accuracy   = 86.788 [%]
+hit_count  = 97980
+miss_count = 14916
+
+class_accuracy = 96.491%   48.516%   
+
+
+confusion_matrix = 
+86900	 11757	 
+3159	 11080	 
+
+
+

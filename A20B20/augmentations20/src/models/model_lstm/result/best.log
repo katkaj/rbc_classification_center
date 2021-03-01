@@ -1,0 +1,29 @@
+new best net in 90
+TRAINING result
+accuracy   = 99.828 [%]
+hit_count  = 1927427
+miss_count = 3325
+
+class_accuracy = 99.915%   99.482%   
+
+
+confusion_matrix = 
+1540351	 2014	 
+1311	 387076	 
+
+
+
+TESTING result
+accuracy   = 86.185 [%]
+hit_count  = 97299
+miss_count = 15597
+
+class_accuracy = 95.264%   49.698%   
+
+
+confusion_matrix = 
+86117	 11317	 
+4280	 11182	 
+
+
+
